@@ -1,4 +1,4 @@
-# Senior-Design-Prototype
+# Senior Design Prototype
 This repository contains the firmware, documentation, and hardware design files for the first-stage prototype of a wearable motion-tracking module for lower-limb rehabilitation. Each module uses an ESP32 Feather V2 microcontroller with two LSM6DSOX IMUs to measure fused pitch and roll angles at one joint. The system includes LED posture feedback, pushbutton control, and Bluetooth Low Energy (BLE) transmission for real-time monitoring.
 
 This prototype represents the foundation for a full three-segment wearable device (hip, thigh, and shin), each equipped with its own ESP32 and dual-IMU PCB.
